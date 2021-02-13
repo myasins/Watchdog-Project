@@ -14,7 +14,8 @@ do not develop your code depending on a speciﬁc value of N.
 You are expected to have three C/C++ programs; process, watchdog, and executor with the
 properties speciﬁed below. Note that, executor program is provided to you, and you should not
 alter anything on the original program.
-12.1 executor.cpp
+
+executor.cpp
 1. File Properties:
 • The name of the ﬁle is executor.cpp. (This ﬁle is already provided to you. Do not
 modify.)
